@@ -1,6 +1,7 @@
 # Manchester_R_Course
 Andrew's R Course for DNEP June 2018
 Andrew.Stewart@manchester.ac.uk
+http://personalpages.manchester.ac.uk/staff/andrew.j.stewart/Site/Andrew_Stewart.html
 
 Coupland 1 Turing seminar room 1000-1200, PC cluster 1300-1500
 
