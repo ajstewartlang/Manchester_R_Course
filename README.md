@@ -19,7 +19,6 @@ https://www.rstudio.com/products/rstudio/download/#download
 
 
 
-The Course Material
 The material is available in this repository.  You’ll find folders for Day One and Day Two. Within each of these, you’ll find separate Morning and Afternoon folders. Each Morning folder contains the slides for the seminar, and the R code and data I use in the slides. The Afternoon folders contain the afternoon workshops (each written as an .html file), and the data needed for each workshop. Additionally, you’ll also find a Cheat Sheets and Handy Guides folder which contains a number of helpful reference resources, and a Quick Start guide to begin working with R.
 
 On Day One we will cover the basics of R, data wrangling, data visualisation, and classical analysis techniques such as AN(C)OVA and regression. On Day Two we will focus on (generalised) linear mixed models (aka mixed models, hierarchical linear models, random effects models) for the modelling of normal, non-normal, binomial, and ordinal data.
