@@ -1,14 +1,11 @@
 # Manchester_R_Course
 Andrew's R Course for DNEP June 2018
-
-Two Day R Course for DNEP - June 21/22
 Andrew.Stewart@manchester.ac.uk
 
 Coupland 1 Turing seminar room 1000-1200, PC cluster 1300-1500
 
 
-
-Installing R and RStudio
+## Installing R and RStudio
 If you’re bringing your laptop to the R workshops (recommended), you’ll want to install R (the language) and RStudio (the interface that helps us interact with R) in advance - each is available for OSX, Windows, and various flavours of Unix. You can install R from here:
 
 https://www.stats.bris.ac.uk/R/
@@ -25,11 +22,11 @@ On Day One we will cover the basics of R, data wrangling, data visualisation, an
 
 
 
-Online R Resources
+## Online R Resources
 Below are some helpful R resources - it would be useful to look at the first one before the initial workshop. 
 
 
-Online introductory guide to R, RStudio, and R Markdown.
+##Online introductory guide to R, RStudio, and R Markdown.
 
 This is a very clear and focused introduction to R, RStudio, and R Markdown. You probably want to read the first four chapters sooner rather than later…
 
@@ -37,7 +34,7 @@ http://rbasics.netlify.com
 
 
 
-R for Data Science online book - Garrett Grolemund and Hadley Wickham
+## R for Data Science online book - Garrett Grolemund and Hadley Wickham
 
 This is the online interactive version of the book of the same name. It focuses more on the data science side of things than on statistics per se, and is very useful (especially in terms of data wrangling).
 
@@ -45,7 +42,7 @@ http://r4ds.had.co.nz
 
 
 
-R Graphics Cookbook (uses ggplot2)
+## R Graphics Cookbook (uses ggplot2)
 
 The following cookbook contains lots of useful examples of graphing using the ggplot2 package in R. A new version of the book is due to be released during Summer 2018.
 
