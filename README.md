@@ -24,11 +24,11 @@ On Day One we will cover the basics of R, data wrangling, data visualisation, an
 
 
 
-## Online R Resources
+# Online R Resources
 Below are some helpful R resources - it would be useful to look at the first one before the initial workshop. 
 
 
-##Online introductory guide to R, RStudio, and R Markdown.
+## Online introductory guide to R, RStudio, and R Markdown.
 
 This is a very clear and focused introduction to R, RStudio, and R Markdown. You probably want to read the first four chapters sooner rather than later…
 
